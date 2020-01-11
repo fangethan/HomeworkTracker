@@ -25,7 +25,7 @@ public class HomeworkTrackerTest extends javax.swing.JFrame {
     DefaultTableModel model;
     public HomeworkTrackerTest() {
         initComponents();
-        model = (DefaultTableModel)tblHomework.getModel();
+        model = (DefaultTaeModel)tblHomework.getModel();
     }
 
     
